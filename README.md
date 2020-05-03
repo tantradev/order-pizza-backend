@@ -1,9 +1,9 @@
 
-## Environment Variable file
-rename the .env.template to .env and do the need configurations for the database setup
+## Environment variable file
+rename the .env.template to .env and do the needed configurations for the database setup
 
-## installation
-composer intall
+## Installation
+composer install
 
 ## Database migration
 php artisan migrate
